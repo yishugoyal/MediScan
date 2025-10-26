@@ -37,22 +37,6 @@ Powered by **MediScan AI**, the platform helps users describe their **symptoms**
 
 ---
 
-## 📂 Project Structure
-
-MediScan/
-│
-├── index.html # Main landing page
-├── dashboard.php # User dashboard (AI chat + medicine tools)
-├── login.php # Authentication page
-├── register.php # User registration
-├── config.php # Database configuration
-├── assets/ # Images, icons, and other media
-├── css/ # Stylesheets
-├── js/ # JavaScript scripts
-└── README.md # Project documentation
-
----
-
 ## 👨‍💻 Team Coders
 
 > This project is proudly developed by **Team Coders**, a passionate group of developers dedicated to improving digital healthcare through AI innovation. The proud students of CGC Uni.
